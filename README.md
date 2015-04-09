@@ -2,12 +2,13 @@
 
 Atom theme using the ever popular dark [solarized] colors.
 
-This theme is installed by default with Atom and can be activated by going to
-the _Themes_ section in the Settings view (`cmd-,`) and selecting it from the
-_Syntax Themes_ dropdown menu.
+Modified for darker background tones:
+base03 - BACKGROUND       - 002b36 => 2b2b2b
+base02 - BACKGROUND-LIGHT - 073642 => 3a3a3a
 
-![](https://f.cloud.github.com/assets/136521/2327081/4c61f1aa-a3eb-11e3-9377-96d7837fa65a.png)
+This theme must be installed manually, either by pointing at this repo, or by
+cloning this repo and installing from your local copy.
 
-![](https://f.cloud.github.com/assets/136521/2327080/4c51a976-a3eb-11e3-8c0d-2fba5915bb26.png)
+![](screenshot.png?raw=true)
 
 [solarized]: http://ethanschoonover.com/solarized

@@ -8,7 +8,8 @@ base03 - BACKGROUND       - 002b36 => 2b2b2b
 base02 - BACKGROUND-LIGHT - 073642 => 3a3a3a
 ```
 This theme must be installed manually, either by pointing at this repo, or by
-cloning this repo and installing from your local copy.
+cloning this repo and installing from your local copy by traversing into the
+clone directory and executing `apm link`.
 
 ![](screenshot.png?raw=true)
 

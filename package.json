@@ -1,7 +1,7 @@
 {
   "name": "atom-solarized-dark-syntax",
   "theme": "syntax",
-  "version": "0.33.0",
+  "version": "0.38.1",
   "description": "A dark syntax theme using the solarized colors with a tweak for a darker background",
   "repository": "https://github.com/rbellamy/atom-solarized-dark-syntax",
   "license": "MIT",
